@@ -4,10 +4,7 @@
   "description": "N1インタビュー分析システム",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "vercel dev",
   },
   "dependencies": {
     "axios": "^1.6.0",
