@@ -1,0 +1,3 @@
+@echo off
+echo Starting N1 Interview Analysis Frontend...
+npm run dev

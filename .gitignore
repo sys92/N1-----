@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.npm/
+.parcel-cache/
+dist/
+.vercel/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+
+# Mac / その他
+.DS_Store
